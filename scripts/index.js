@@ -79,4 +79,3 @@ for (let button of buttons) {
 }  )
     
 }
-console.dir(result)
