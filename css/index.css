@@ -156,7 +156,8 @@ main {
 }
 #result {
 	height: 70px;
-	width: 75px;
+	width: fit-content;
+	padding-right: 35px;
 	display: flex;
 	justify-content: center;
 	align-items: center;
