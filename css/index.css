@@ -188,13 +188,13 @@ main {
 	justify-content: center;
 	align-items: center;
 }
-#four-five-equal-row {
+#fourFiveEqualRow {
 	width: 100%;
 	height: 140px;
 	display: flex;
 	position: relative;
 }
-#four-five-left {
+#fourFiveLeft {
 	width: 225px;
 	height: 100%;
 	display: flex;
