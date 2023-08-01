@@ -139,7 +139,7 @@ body {
 }
 
 main {
-	height: 450px;
+	height: 500px;
 	width: 300px;
 	aspect-ratio: 6/9;
 	background-color: red;
@@ -148,11 +148,12 @@ main {
 	position: relative;
 }
 #result-area {
-	height: 100px;
+	height: 150px;
 	width: 100%;
 	position: relative;
 	display: flex;
-	justify-content: flex-end;
+	flex-direction: column;
+	justify-content: space-between;
 	align-items: flex-end;
 }
 #result {
@@ -163,6 +164,10 @@ main {
 	justify-content: center;
 	align-items: center;
 	overflow-x: hidden;
+}
+#problem-screen {
+	width: fit-content;
+	height: 70px;
 }
 #numHome {
 	height: 350px;
