@@ -11,4 +11,3 @@
 ## Javascript
 
 - Variables used to capcture and operate on numbers  
-- 
