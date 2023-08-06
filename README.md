@@ -1,4 +1,5 @@
-# [Calculator](https://jevonthompsonx.github.io/calculator/)
+# [Calculator 🖩](https://jevonthompsonx.github.io/calculator/)  
+
  An online calculator
 
 ## CSS  
